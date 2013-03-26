@@ -1,0 +1,32 @@
+name: FK-Easy-Start
+version: 1.1
+author: FKProjects
+site: http://www.FKProjects.de
+
+main: main.FKEasyStart
+
+commands:
+  fk-kill:
+    description:
+    usage: /<command> <player>
+  fk-starterpack:
+    description:
+    usage: /<command>
+  fk-heal:
+    description:
+    usage: /<command> <player>
+  fk-gethead:
+    description:
+    usage: /<command> <id>
+  fk-getchestplate:
+    description:
+    usage: /<command> <id>
+  fk-getleggings:
+    description:
+    usage: /<command> <id>
+  fk-getboots:
+    description:
+    usage: /<command> <id>
+  tc:
+    description:
+    usage: /<command>
